@@ -16,7 +16,7 @@ function Login() {
       },
         body: JSON.stringify({
          email: 'eve.holt@reqres.in',
-         password: 'cityslicka'
+         password: 'tailwind'
           }),
       });
 
